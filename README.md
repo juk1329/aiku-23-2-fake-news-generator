@@ -34,6 +34,6 @@ python3 train.py
 
 
 - [김예랑](https://github.com/01tilinfinity): (문제 정의, 학습 코드 작성, 논문 리서치)
-- [박정규](홍길동의 github link): (코드 작성, 데이터 정제, 실험 진행)
+- [박정규](LLM-Innovators-Challenge): (코드 작성, 데이터 정제, 실험 진행)
 - [임주원](홍길동의 github link): (데이터 정제, 실험 진행, 논문 리서치)
 - [이정은](홍길동의 github link): (모델 서칭, 실험 진행, 코드 작성)
